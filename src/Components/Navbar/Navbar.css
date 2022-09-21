@@ -1,0 +1,22 @@
+.titulo {
+    display: flex;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divButton{
+    width: 50%;
+    margin: auto;
+    background-color: aquamarine;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: orange;
+    margin: 10px;
+}
+
+.divCart {
+    margin: auto;
+
+}
