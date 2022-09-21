@@ -3,7 +3,7 @@ import "./Navbar.css"
 
 const Navbar = () => {
     return (
-        <nav style={{display: "flex", justifyContent: "space-around"}}>
+        <nav style={{display: "flex", justifyContent: "space-around", backgroundColor: "aquamarine"}}>
             <h1 class= "titulo"> Gamer Compra</h1>
             <div class = "divButton">
                 <button>Productos</button>
