@@ -1,9 +1,9 @@
 import cart from "./assets/cart.svg"
-
+import './CartWidtget.css'
 
 const CartWidtget = () => {
     return (
-        <div style={{}} >
+        <div class= "CartWidtget" >
             <img src= {cart} alt="cart" />
             0
         </div>

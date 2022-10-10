@@ -1,0 +1,29 @@
+.ProductsConteiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.Products {
+    border: 1px solid black;
+    margin: 15px;
+    text-align: center;
+    font-size: 9px;
+    padding: 5px;
+    background-color: white;
+}
+
+.Products h1 {
+    color: rgb(241, 64, 64); 
+    font-size: 20px;
+
+}
+
+
+.imgProd {
+    height: auto;
+    width: auto;
+    max-width: 180px;
+    max-height: 180px;
+}

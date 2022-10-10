@@ -1,0 +1,11 @@
+.Link {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2px;
+    font-family: cursive;
+    background-color: red;
+    color: black;
+    font-size: 15px;
+}
+
